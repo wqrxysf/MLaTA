@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shaski", "shaski\shaski.vcxproj", "{77D1DAA0-67DA-4F66-B826-E0B4F509744B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77D1DAA0-67DA-4F66-B826-E0B4F509744B}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{77D1DAA0-67DA-4F66-B826-E0B4F509744B}.Debug|ARM64.Build.0 = Debug|ARM64
+		{77D1DAA0-67DA-4F66-B826-E0B4F509744B}.Debug|x64.ActiveCfg = Debug|x64
+		{77D1DAA0-67DA-4F66-B826-E0B4F509744B}.Debug|x64.Build.0 = Debug|x64
+		{77D1DAA0-67DA-4F66-B826-E0B4F509744B}.Debug|x86.ActiveCfg = Debug|Win32
+		{77D1DAA0-67DA-4F66-B826-E0B4F509744B}.Debug|x86.Build.0 = Debug|Win32
+		{77D1DAA0-67DA-4F66-B826-E0B4F509744B}.Release|ARM64.ActiveCfg = Release|ARM64
+		{77D1DAA0-67DA-4F66-B826-E0B4F509744B}.Release|ARM64.Build.0 = Release|ARM64
+		{77D1DAA0-67DA-4F66-B826-E0B4F509744B}.Release|x64.ActiveCfg = Release|x64
+		{77D1DAA0-67DA-4F66-B826-E0B4F509744B}.Release|x64.Build.0 = Release|x64
+		{77D1DAA0-67DA-4F66-B826-E0B4F509744B}.Release|x86.ActiveCfg = Release|Win32
+		{77D1DAA0-67DA-4F66-B826-E0B4F509744B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9F4E6B-7C3B-41FB-9799-E4A4232CA464}
+	EndGlobalSection
+EndGlobal
